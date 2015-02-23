@@ -45,7 +45,7 @@ A story title should always include the persona name and define a small focussed
 
 More info on writing good user stories: [https://medium.com/@jonatisokon/a-framework-for-user-stories-bc3dc323eca9]()
 
-We generally use [Trello](https://trello.com/) boards to track stories. We'll work with all product stakeholders to agree on a set of stories to go into an intial or next release and place them in the [backlog](http://guide.agilealliance.org/guide/backlog.html) for that version.
+We generally use [Trello](https://trello.com/) boards to track stories. We'll work with all product stakeholders to agree on a set of stories to go into an initial or next release and place them in the [backlog](http://guide.agilealliance.org/guide/backlog.html) for that version.
 
 Anyone can create a new story at any time as new requirements come to light. New stories should be added to the overall product backlog. Where they can be [groomed](http://guide.agilealliance.org/guide/backlog-grooming.html) by the stakeholders and potentially be selected for future versions.
 
@@ -75,7 +75,7 @@ Likewise, if a sprint is more complex than originally thought, it may be that st
 #### At the start of each sprint
 We should have a kick-off meeting where we look through the backlog (which should have been prioritised) and pick a set of stories that can be achieved in the time available. 
 
-Developers will discuss the stories that the business/product owner has provided, discuss them in detail, add technical details and potentially split the stories up into smaller logical chunks of work which can be recorded as tasks on Trello. ** Should this be re-worded?  'smaller sub-stories' or similar, rather than 'tasks'? **
+Developers will discuss the stories that the business/product owner has provided, discuss them in detail, add technical details and potentially split the stories up into smaller logical chunks of work which can be recorded as tasks within the story on Trello. 
 
 We should decide upon the length of the sprint - two weeks is a practical time-span, unless there is a valid reason to change.
 
@@ -118,7 +118,7 @@ Any experimental branches that are to live in the repo long-term should have a p
 
 No work should ever be directly merged into the main branch. All work should be peer-reviewed via a pull request (PR). Developers on the team should aim to keep the number of changes/commits in the PR to a minimum. 
 
-In the main PR description a link to the story should be provided, along with a description of the work carried out. Disucssion within the PR should be kept to specifics covered in the changed/new code within that PR.
+In the main PR description a link to the story should be provided, along with a description of the work carried out. Discussion within the PR should be kept to specifics covered in the changed/new code within that PR.
 
 While a PR is in progress and is not ready to be merged, it should be marked as [DNM] (do not merge) both in the title and with a tag. Once a PR is ready for review, the DNM tag/title should be removed.
 
@@ -170,6 +170,6 @@ Email should be used for admin, typically where permanent copies of documents ar
 
 ### Working remotely
 
-Before someone is able to work remotely, there must be agreement from all concerned. If someone is working remotely they are expected to keep to standard office hours, be present on Slack, and contactable via Skype.
+Depending on client preferences and other factors remote working is not always appropriate for a project, especially during early planning phases. But as long as the infrastructure is in place to support it (IM, video chats, GitHub etc.) we think working remotely can be a viable and productive way to approach project work.
 
 

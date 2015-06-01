@@ -43,7 +43,7 @@ A story title should always include the persona name and define a small focussed
 
 > Dave should be able to pay for his yacht with his credit card.
 
-More info on writing good user stories: [https://medium.com/@jonatisokon/a-framework-for-user-stories-bc3dc323eca9]()
+More info on writing good user stories: [https://medium.com/@jonatisokon/a-framework-for-user-stories-bc3dc323eca9](https://medium.com/@jonatisokon/a-framework-for-user-stories-bc3dc323eca9)
 
 We generally use [Trello](https://trello.com/) boards to track stories. We'll work with all product stakeholders to agree on a set of stories to go into an initial or next release and place them in the [backlog](http://guide.agilealliance.org/guide/backlog.html) for that version.
 
